@@ -10,7 +10,7 @@ An AI-powered personal finance dashboard that analyzes your bank transactions an
 
 ## 🚀 Live Demo
 
-> [Click here to try it live](#) ← *(replace with your Vercel link)*
+> [Click here to try it live](https://finance-analyzerfinanceiq-app.vercel.app) ← *(replace with your Vercel link)*
 
 ---
 
